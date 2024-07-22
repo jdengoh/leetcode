@@ -1,3 +1,5 @@
+*Link*: https://leetcode.com/problems/fizz-buzz/description/
+
 # Intuition
 We have 3 cases to consider here:
 * divisble by 5 and 3
