@@ -9,6 +9,6 @@ I will be posting my LeetCode questions and solutions, as well as the thought pr
 
 # Directory of Questions
 * [Array](./leetcode/array/)
-* Linked List
-* Normal (questions)
-* Tree
+* [Linked List](./leetcode/linked%20list/)
+* [Normal (questions)](./leetcode/normal/)
+* [Tree](./leetcode/tree/)
