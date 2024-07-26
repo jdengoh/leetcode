@@ -6,3 +6,9 @@
 Welcome!
 
 I will be posting my LeetCode questions and solutions, as well as the thought process behind my solutions here!
+
+# Directory of Questions
+* [Array](./leetcode/array/)
+* Linked List
+* Normal (questions)
+* Tree
